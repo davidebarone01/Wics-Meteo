@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: rebeccapurple;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+th{
+    background-color: beige;
+    color: black;
+    font-weight: bold;
+    padding: 8px;
+    border: 1px solid black;
+}
+
+td {
+    padding: 8px;
+    border: 1px solid black;
+}
+
+tbody{
+    background-color: lightcyan;
+}
+
+body {
+    background-image: url('C:\Users\Davide Barone\Desktop\Linguaggi web\Immagini\franchino.jpg');
+    background-size: cover;
+    background-position: center;
+}

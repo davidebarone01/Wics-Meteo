@@ -1,0 +1,21 @@
+*{
+    color:brown;
+}
+
+h2{
+    color:blueviolet;
+}
+
+.green{
+    color:green;
+}
+
+#internal{
+    color:crimson;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    
+}
