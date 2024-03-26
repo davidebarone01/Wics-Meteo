@@ -6,6 +6,7 @@ h1 {
 table {
     width: 100%;
     border-collapse: collapse;
+    opacity: 0.5;
 
 }
 
@@ -27,7 +28,7 @@ tbody{
 }
 
 body {
-    background-image: url('C:\Users\Davide Barone\Desktop\Linguaggi web\Immagini\franchino.jpg');
+    background-image: url('/Immagini/presidente.jpeg');
     background-size: cover;
     background-position: center;
 }
